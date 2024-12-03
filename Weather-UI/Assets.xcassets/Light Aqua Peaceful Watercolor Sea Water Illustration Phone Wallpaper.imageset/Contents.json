@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Light Aqua Peaceful Watercolor Sea Water Illustration Phone Wallpaper.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Light Aqua Peaceful Watercolor Sea Water Illustration Phone Wallpaper@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Light Aqua Peaceful Watercolor Sea Water Illustration Phone Wallpaper@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
